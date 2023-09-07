@@ -1,2 +1,2 @@
-# MART341-Webdesign
+# Chenoa Reid MART341-Webdesign
 Repository for UMT class MART341
