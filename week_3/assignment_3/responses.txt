@@ -1,0 +1,4 @@
+what is an advantage to using a text editor?
+Using a Text editor streamlines editing and makes creating text extremely user friendly.
+Is there an advantage of using a relative vs an absolute URL?
+Absolute URLs are designed to completely contain all information necessary for a resource and can hold more information than a relative URL However, using both together are ideal ways to be efficient.
