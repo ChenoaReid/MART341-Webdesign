@@ -1,5 +1,5 @@
 div{
-  background-color: #8C2824;
+  background-color: #DC9181;
 }
 
 body{
@@ -11,7 +11,7 @@ body{
     /* Draw a solid border make it maroon */
     border-style: solid;
     border-width: 10px;
-    border-color: #8C2824;
+    border-color: #6D081E;
     /*Add space between the border and its inside elements. */
     padding: 10px;
     /* Color the background dark grey. */
@@ -37,7 +37,7 @@ div.align{
     position: relative;
     left: 20px;
     top:5px;
-    color: darkslategray;
+    color: #6D081E;
     opacity: .75;
     font-size: 60px;
 }
@@ -46,7 +46,7 @@ div.align{
   position: relative;
   left: 20px;
   top:5px;
-  color: darkslategray;
+  color: #6D081E;
   opacity: .75;
   font-size: 30px;
 }
