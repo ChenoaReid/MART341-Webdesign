@@ -1,3 +1,7 @@
+div{
+  background-color: #8C2824;
+}
+
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -7,11 +11,11 @@ body{
     /* Draw a solid border make it maroon */
     border-style: solid;
     border-width: 10px;
-    border-color: maroon;
+    border-color: #8C2824;
     /*Add space between the border and its inside elements. */
     padding: 10px;
     /* Color the background dark grey. */
-    background : lightgrey;
+    background : AntiqueWhite;
     width: 75%;
     margin: auto;
 }
@@ -36,4 +40,13 @@ div.align{
     color: darkslategray;
     opacity: .75;
     font-size: 60px;
+}
+
+#secondaryheader{
+  position: relative;
+  left: 20px;
+  top:5px;
+  color: darkslategray;
+  opacity: .75;
+  font-size: 30px;
 }
