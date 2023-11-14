@@ -1,0 +1,52 @@
+div{
+    text-align: left;
+    font-family: Crimson;
+    font-style: normal;
+    margin: 10px;
+    background-color: #F7D4D4;
+}
+
+.title{
+    font-family: Crimson;
+    font-size: 80px;
+    text-shadow: -6px 2px 0 #000;
+    color:aliceblue;
+    background-color: #E79898;
+    height: 100px;
+    text-align: center;
+}
+
+#neuromirror{
+    font-family: Crimson;
+    font-weight: 900;
+}
+
+
+#neuromirror:hover:after {
+
+    content: "";
+    font-weight: 400;
+    color: red;
+    font-style: italic;
+}
+
+#uncanny {
+  font-weight: 800;
+
+}
+
+#uncanny:hover {
+    background: url("../images/unCannyValley.png");
+    float: right;
+    display: block;
+    width: 500px;
+    height: 400px;
+}
+
+#uppercase {
+    text-transform: uppercase;
+}
+
+img{
+    padding: 20px 20px;
+}
