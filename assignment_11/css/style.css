@@ -9,38 +9,44 @@ div{
 .title{
     font-family: Crimson;
     font-size: 80px;
-    text-shadow: -6px 2px 0 #912828;
-    color:aliceblue;
+    text-shadow: -6px 2px 0 #460808;
+    color:#FFF4F4;
     background-color: #E79898;
     height: 100px;
     text-align: center;
 }
 
-#neuromirror{
+h1{
+    font-family: Crimson;
+    color: #460808;
+    text-align: left;
+}
+
+#invasivespecies{
     font-family: Crimson;
     font-weight: 900;
 }
 
 
-#neuromirror:hover:after {
+#invasivespecies:hover:after {
 
-    content: "";
+    content: " An invasive species is an introduced, nonnative organism (disease, parasite, plant, or animal) that begins to spread or expand its range from the site of its original introduction and that has the potential to cause harm to the environment, the economy, or to human health.";
     font-weight: 400;
-    color: red;
+    color: #880909;
     font-style: italic;
 }
 
-#uncanny {
+#M {
   font-weight: 800;
 
 }
 
-#uncanny:hover {
-    background: url("../images/unCannyValley.png");
-    float: right;
+#M:hover {
+    background: url("../images/Ladybird.JPG");
+    float: left;
     display: block;
-    width: 500px;
-    height: 400px;
+    width: 474px;
+    height: 271px;
 }
 
 #uppercase {
