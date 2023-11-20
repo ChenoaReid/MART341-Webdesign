@@ -1,5 +1,5 @@
 div{
-    text-align: left;
+    text-align: center;
     line-height: 2em;
     font-family: 'Beauty';
     margin-bottom: 20px;
@@ -9,6 +9,7 @@ h1, h3, h5{
     text-align: center;
     font-family: 'Beauty';
     font-style: normal;
+    font-size: 40
 }
 
 header{
@@ -17,7 +18,7 @@ header{
     font-family: 'Beauty';
     font-style: medium;
     color: white;
-    text-align: left;
+    text-align: center;
     margin: 0;
     height: 3em;
     width: 100%;
@@ -32,16 +33,15 @@ header{
     padding: 0.5em 0;
 }
 
-/* Style the links: */
 .menu-item a {
     color: #fff;
     text-decoration: none;
 }
 .menu-item:hover {
-    background-color: #1CCDCA;
+    background-color: #EEB2C5;
+    color: #360A18;
 }
 
-/* Add a dropdown feature: */
 .dropdown {
     display: inline-block;
     margin: 0 0;
@@ -60,12 +60,12 @@ header{
     border: 1px solid #000;
     margin: 0;
     margin-top: 0.5em;
-    color: #000;
-    background-color: #fff;
+    color: #360A18;
+    background-color: #EEB2C5;
     z-index: 1;
 }
 .dropdown-content a {
-    color: #000;
+    color: #360A18;
 }
 .dropdown:hover .dropdown-content {
     display: block;
@@ -80,6 +80,6 @@ header{
     min-width: 7em;
 }
 .dropdown-item:hover, .dropdown-item:hover a {
-    color: #baf0ef;
-    background-color: #a2a2a2;
+    color: #EEB2C5;
+    background-color: #360A18;
 }
