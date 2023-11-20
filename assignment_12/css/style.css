@@ -1,9 +1,9 @@
 div{
     text-align: left;
-    line-height: 1.45em;
+    line-height: 2em;
     font-family: 'Beauty';
-    margin-bottom: 10px;
-    padding: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 h1, h3, h5{
     text-align: center;
@@ -17,10 +17,9 @@ header{
     font-family: 'Beauty';
     font-style: medium;
     color: white;
-    font-variant: small-caps;
     text-align: left;
     margin: 0;
-    height: 2.5em;
+    height: 3em;
     width: 100%;
 }
 
