@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Beauty';
+    src: url('../fonts/RiseofBeautyDemo-Regular.otf') format('opentype');
+    font-style: normal;
+ }
+
+@font-face {
+     font-family: 'Beauty';
+     src: url('../fonts/RiseofBeautyDemo-Black.otf') format('opentype');
+     font-style: normal;
+     font-weight: 700;
+  }
+
+@font-face {
+      font-family: 'Beauty';
+      src: url('../fonts/RiseofBeautyDemo-BlackItalic.otf') format('opentype');
+      font-style: italic;
+      font-weight: 700;
+   }
+
+@font-face {
+       font-family: 'Beauty';
+       src: url('../fonts/RiseofBeautyDemo-Bold.otf') format('opentype');
+       font-style: bold;
+       font-weight: bold;
+    }
+
+    @font-face {
+        font-family: 'Beauty';
+        src: url('../fonts/RiseofBeautyDemo-BoldItalic.otf') format('opentype');
+        font-style: italic;
+        font-weight: bold;
+     }
+
+     @font-face {
+         font-family: 'Beauty';
+         src: url('../fonts/RiseofBeautyDemo-ExtBdIta.otf') format('opentype');
+         font-style: Italic;
+         font-weight: bolder;
+      }
+
+      @font-face {
+          font-family: 'Beauty';
+          src: url('../fonts/RiseofBeautyDemo-ExtraBold.otf') format('opentype');
+          font-style: bold;
+          font-weight: bolder;
+       }
+       @font-face {
+           font-family: 'Beauty';
+           src: url('../fonts/RiseofBeautyDemo-Italic.otf') format('opentype');
+           font-style: italic;
+           font-weight: normal;
+        }
+        @font-face {
+            font-family: 'Beauty';
+            src: url('../fonts/RiseofBeautyDemo-Medium.otf') format('opentype');
+            font-style: normal;
+            font-weight: lighter;
+         }
+
+         @font-face {
+             font-family: 'Beauty';
+             src: url('../fonts/RiseofBeautyDemo-MediumItalic.otf') format('opentype');
+             font-style: italic;
+             font-weight: lighter;
+          }
+
+          @font-face {
+              font-family: 'Beauty';
+              src: url('../fonts/RiseofBeautyDemo-SemiBdIta.otf') format('opentype');
+              font-style: italic;
+              font-weight: bold;
+           }
