@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Beauty';
+    src: url('../fonts/RiseofBeautyDemo-Regular.otf') format('opentype');
+    font-style: normal;
+ }
+
+ @font-face {
+    font-family: 'Beauty';
+    src: url('../fonts/RiseofBeautyDemo-Bold.otf') format('opentype');
+    font-style: bold;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Beauty';
+    src: url('../fonts/RiseofBeautyDemo-Italic.otf') format('opentype');
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Crimson'';
+    src: url('./fonts/crimson.roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Crimson';
+    src: url('./fonts/crimson.bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+ }
+
+ @font-face {
+    font-family: 'Crimson';
+    src: url('./fonts/crimson.italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+ }
