@@ -92,7 +92,7 @@ header {
     border: 1px solid #0F2F50;
     margin: 0.5em 0 0 -1em;
     color: #0F2F50;
-    background-color: #DDEDF6;
+    background-color: #E7F2FE;
     z-index: 1;
 }
 .dropdown-content a {
@@ -119,27 +119,27 @@ header {
 
 .mainimage{
     float: left;
-    content:url("../images/road1-small.jpg");
+    content:url("../images/IMG_0481.PNG");
 
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .mainimage{
-        content:url("../images/road1.jpg");
+        content:url("../images/IMG_0481.PNG");
     }
 }
 
 .secondimage{
     float:right;
-    content:url("../images/road2-small.jpg");
+    content:url("../images/IMG_0338.PNG");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .secondimage{
         float:right;
-        content:url("../images/road2.jpg");
+        content:url("../images/IMG_0338.PNG");
     }
 }
 
@@ -158,14 +158,14 @@ header {
 
 .fourthimage{
     margin:auto;
-    content:url("../images/road4-small.jpg");
+    content:url("../images/IMG_0479.PNG");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .fourthimage{
         margin: auto;
-        content:url("../images/road4.jpg");
+        content:url("../images/IMG_0479.PNG");
     }
 }
 
