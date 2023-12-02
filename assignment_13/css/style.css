@@ -6,7 +6,7 @@
     padding-bottom: 300px;
 }
 body{
-    background-color: #D8F5F9;
+    background-color: #DDEDF6;
 }
 div{
     text-align: left;
@@ -51,7 +51,7 @@ header {
     position: fixed;
     top: 0px;
     left: 0px;
-    background-color: #164F71;
+    background-color: #0F2F50;
     font-family: Beauty;
     text-transform: uppercase;
     margin-top: 10;
@@ -66,13 +66,13 @@ header {
     margin: 1em .2em;
     min-width: 6em;
     text-align: center;
-    background-color: #164F71;
+    background-color: #0F2F50;
     padding: 0.5em 1em;
 }
 
 /* Style the links: */
 .menu-item a {
-    color: #D8F5F9;
+    color: #DDEDF6;
     text-decoration: none;
 }
 
@@ -89,14 +89,14 @@ header {
 .dropdown-content {
     display: none;
     position: absolute;
-    border: 1px solid #164F71;
+    border: 1px solid #0F2F50;
     margin: 0.5em 0 0 -1em;
-    color: #164F71;
-    background-color: #D8F5F9;
+    color: #0F2F50;
+    background-color: #DDEDF6;
     z-index: 1;
 }
 .dropdown-content a {
-    color: #164F71;
+    color: #0F2F50;
 }
 
 .dropdown:hover .dropdown-content {
@@ -114,7 +114,7 @@ header {
 
 .dropdown-item:hover, .dropdown-item:hover a {
     color: black;
-    background-color: #a2a2a2;
+    background-color: #85B3CE;
 }
 
 .mainimage{
