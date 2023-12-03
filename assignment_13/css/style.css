@@ -117,70 +117,7 @@ header {
     background-color: #85B3CE;
 }
 
-.mainimage{
-    float: left;
-    content:url("../images/IMG_0481.PNG");
 
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .mainimage{
-        content:url("../images/IMG_0481.PNG");
-    }
-}
-
-.secondimage{
-    float:right;
-    content:url("../images/IMG_0338.PNG");
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .secondimage{
-        float:right;
-        content:url("../images/IMG_0338.PNG");
-    }
-}
-
-.thirdimage{
-    margin: auto;
-    content:url("../images/road3-small.jpg");
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .thirdimage{
-        margin: auto;
-        content:url("../images/road3.jpg");
-    }
-}
-
-.fourthimage{
-    margin:auto;
-    content:url("../images/IMG_0479.PNG");
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .fourthimage{
-        margin: auto;
-        content:url("../images/IMG_0479.PNG");
-    }
-}
-
-.fifthimage{
-    margin:auto;
-    content:url("../images/road2-small.jpg");
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .fifthimage{
-        margin: auto;
-        content:url("../images/road2.jpg");
-    }
-}
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
